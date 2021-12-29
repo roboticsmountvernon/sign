@@ -1,3 +1,4 @@
+# maven files
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -7,5 +8,17 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+
+# Eclipse files 
+.settings/
+.project
+.classpath
+
+# Emacs files
+*~
+
+# Mac specific files
+.DS_Store
