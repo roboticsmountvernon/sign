@@ -5,7 +5,7 @@
 /* Date        : 13-Jun-13                                              */
 /* Description : Wrapper for various types of serial interfaces.        */
 /*----------------------------------------------------------------------*/
-/*  (C) Copyright 2016, Look Left Studio                                */
+/*  (C) Copyright 2016, David Vogt                                      */
 /*  All rights reserved.                                                */
 /*----------------------------------------------------------------------*/
 #include "SerialWrapper.h"

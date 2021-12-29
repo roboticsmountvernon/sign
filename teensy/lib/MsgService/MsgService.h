@@ -5,7 +5,7 @@
 /* Date        : 13-Jun-16                                              */
 /* Description : Header file for serial messaging.                      */
 /*----------------------------------------------------------------------*/
-/*  (C) Copyright 2016, Look Left Studio                                */
+/*  (C) Copyright 2016, David Vogt                                      */
 /*  All rights reserved.                                                */
 /*----------------------------------------------------------------------*/
 #ifndef _MSGSERVICE_H_

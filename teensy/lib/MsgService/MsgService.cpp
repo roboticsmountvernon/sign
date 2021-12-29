@@ -5,7 +5,7 @@
 /* Date        : 13-Jun-16                                              */
 /* Description : Implementation of the client/server serial protocol.   */
 /*----------------------------------------------------------------------*/
-/*  (C) Copyright 2016, Look Left Studio                                */
+/*  (C) Copyright 2016, David Vogt                                      */
 /*  All rights reserved.                                                */
 /*----------------------------------------------------------------------*/
 #include <Entropy.h>

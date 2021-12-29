@@ -5,7 +5,7 @@
 /* Date        : 13-Jun-16                                              */
 /* Description : Wrapper for HardwareSerial and usb_serial_class.       */
 /*----------------------------------------------------------------------*/
-/*  (C) Copyright 2016, Look Left Studio                                */
+/*  (C) Copyright 2016, David Vogt                                      */
 /*  All rights reserved.                                                */
 /*----------------------------------------------------------------------*/
 #ifndef _SERIALWRAPPER_H_
